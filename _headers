@@ -1,0 +1,7 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  X-Frame-Options: DENY
+  Cross-Origin-Opener-Policy: same-origin
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-src 'none'; form-action https://formspree.io; connect-src 'self' https://formspree.io; img-src 'self' data:; font-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'sha256-MaAM5P6Xb0Ckk0Q86N7+dTetKHyUV73vZPemuSZQlNg=' 'sha256-tGusNpxecLAnwjBAYr27ZlZj//XDksSJHfp3AC4dIAE=' 'sha256-KlNTelPRx7N+4+ZcIvJ+w1pjuLh35R+DBQlWJePS9ok='; upgrade-insecure-requests
